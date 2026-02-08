@@ -1,23 +1,23 @@
 A Cover Page X 
-A Table of Contents
-Narrative Breakdown
-Game Genre , Theme
+A Table of Contents X
+Narrative Breakdown Z
+Game Genre , Theme Z Z
 Will it be a sample Level, from a "Start Level" screen through to a "Game Over" Screen
-Will it be a Game Level populated with complex systems
-Moodboards
-Mind maps
-Supporting imagery and reference
-A segment of an Open World showing us your game on smaller scale.
-Goals & Objectives
-Target Audience/Demographic
-Functional Requirements 
-Non-Functional Requirements
-Accessibility Requirements 
-Technical Requirements 
-Phases of development (Timescales)
-The tasks carried out & projected dates/times
-The resources used
-Project Milestones
-Deliverables
+Will it be a Game Level populated with complex systems Z Z
+MoodboardsZ
+Mind maps Z
+Supporting imagery and reference Z
+A segment of an Open World showing us your game on smaller scale. Z
+Goals & Objectives  Z
+Target Audience/Demographic Z
+	Functional Requirements 
+	Non-Functional Requirements
+	Accessibility Requirements 
+	Technical Requirements 
+	Phases of development (Timescales)
+	The tasks carried out & projected dates/times
+	The resources used
+	Project Milestones
+	Deliverables
 
 ANYTHING ELSE IS LIKELY OPTIONAL/ENCOURAGED NOT REQUIRED
