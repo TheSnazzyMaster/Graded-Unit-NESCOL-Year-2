@@ -4,7 +4,7 @@ Narrative Breakdown Z
 Game Genre , Theme Z Z
 Will it be a sample Level, from a "Start Level" screen through to a "Game Over" Screen
 Will it be a Game Level populated with complex systems Z Z
-MoodboardsZ
+Moodboards Z
 Mind maps Z
 Supporting imagery and reference Z
 A segment of an Open World showing us your game on smaller scale. Z
