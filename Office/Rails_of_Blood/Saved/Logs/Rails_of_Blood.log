@@ -934,3 +934,34 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.11-01.08.26:498][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultLightFunctionMaterial is adding a dynamic import to package /Engine/EngineMaterials/DefaultPostProcessMaterial because of a recursive sync load
 [2026.02.11-01.08.26:498][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultPostProcessMaterial (state: DeferredPostLoad) recursively from another package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
 [2026.02.11-01.08.28:063][  0]LogTurnkeySupport: Completed device detection: Code = 0
+[2026.02.11-01.08.50:848][  0]LogWindows: Error: appError called: Fatal error: [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Private\HAL\FileManagerGeneric.cpp] [Line: 123] 
+Failed to create file: C:/Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/Office/Rails_of_Blood/Saved/ShaderDebugInfo/PCD3D_SM6/Global/FStochasticLightingTileClassificationMarkCS/127/DebugCompile.in
+
+
+
+[2026.02.11-01.08.50:848][  0]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2026.02.11-01.08.52:005][  0]LogThreadingWindows: Error: Runnable thread ShaderCompilingThread crashed.
+[2026.02.11-01.08.52:006][  0]LogWindows: Error: === Critical error: ===
+[2026.02.11-01.08.52:006][  0]LogWindows: Error: 
+[2026.02.11-01.08.52:006][  0]LogWindows: Error: Fatal error: [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Private\HAL\FileManagerGeneric.cpp] [Line: 123] 
+[2026.02.11-01.08.52:006][  0]LogWindows: Error: Failed to create file: C:/Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/Office/Rails_of_Blood/Saved/ShaderDebugInfo/PCD3D_SM6/Global/FStochasticLightingTileClassificationMarkCS/127/DebugCompile.in
+[2026.02.11-01.08.52:006][  0]LogWindows: Error: 
+[2026.02.11-01.08.52:006][  0]LogWindows: Error: 
+[2026.02.11-01.08.52:006][  0]LogWindows: Error: [Callstack] 0x00007ffa4f44e7f9 UnrealEditor-Core.dll!UnknownFunction []
+[2026.02.11-01.08.52:006][  0]LogWindows: Error: [Callstack] 0x00007ffa7ce1186f UnrealEditor-RenderCore.dll!UnknownFunction []
+[2026.02.11-01.08.52:006][  0]LogWindows: Error: [Callstack] 0x00007ffa7ce2846d UnrealEditor-RenderCore.dll!UnknownFunction []
+[2026.02.11-01.08.52:006][  0]LogWindows: Error: [Callstack] 0x00007ffa7ce40324 UnrealEditor-RenderCore.dll!UnknownFunction []
+[2026.02.11-01.08.52:006][  0]LogWindows: Error: [Callstack] 0x00007ffa35dc9b15 UnrealEditor-Engine.dll!UnknownFunction []
+[2026.02.11-01.08.52:006][  0]LogWindows: Error: [Callstack] 0x00007ffa35dc9a68 UnrealEditor-Engine.dll!UnknownFunction []
+[2026.02.11-01.08.52:006][  0]LogWindows: Error: [Callstack] 0x00007ffa35ea75cf UnrealEditor-Engine.dll!UnknownFunction []
+[2026.02.11-01.08.52:006][  0]LogWindows: Error: [Callstack] 0x00007ffa35e68c8f UnrealEditor-Engine.dll!UnknownFunction []
+[2026.02.11-01.08.52:006][  0]LogWindows: Error: [Callstack] 0x00007ffa35eae3c4 UnrealEditor-Engine.dll!UnknownFunction []
+[2026.02.11-01.08.52:006][  0]LogWindows: Error: [Callstack] 0x00007ffa4f936c38 UnrealEditor-Core.dll!UnknownFunction []
+[2026.02.11-01.08.52:006][  0]LogWindows: Error: [Callstack] 0x00007ffa4f92fa4f UnrealEditor-Core.dll!UnknownFunction []
+[2026.02.11-01.08.52:006][  0]LogWindows: Error: [Callstack] 0x00007ffb40e5e8d7 KERNEL32.DLL!UnknownFunction []
+[2026.02.11-01.08.52:006][  0]LogWindows: Error: 
+[2026.02.11-01.08.52:006][  0]LogWindows: Error: Crash in runnable thread ShaderCompilingThread
+[2026.02.11-01.08.52:015][  0]LogExit: Executing StaticShutdownAfterError
+[2026.02.11-01.08.52:015][  0]LogWindows: FPlatformMisc::RequestExit(1, FRunnableThreadWin::GuardedRun.ExceptionHandler)
+[2026.02.11-01.08.52:015][  0]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3, FRunnableThreadWin::GuardedRun.ExceptionHandler)
+[2026.02.11-01.08.52:015][  0]LogCore: Engine exit requested (reason: Win RequestExit)
