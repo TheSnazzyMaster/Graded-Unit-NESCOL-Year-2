@@ -1,16 +1,16 @@
 1 Opening
 
-- Exploring The Ruins
+- Exploring The Ruins - David Suggested - Get Over Lesbian Breakup
 
-- Cave in / Collapse
+- Cave in / Collapse - Separated in Sliding Rubble
 
-- Unconcious
+- Unconscious - Hit Head on Ground 
 
-- Wakes Up - Alone
+- Wakes Up - Alone - Ugh My Head
 
-- Where's David
+- Where's David - Find Map - Break Room 
 
-- Game Start
+- Game Start - Prompted to Break Room
 
 2 Beginning
 
@@ -24,7 +24,7 @@
 
 - Keeps Exploring till David is found
 
-- Clears Rubble Trapping David
+- Clears Rubble Trapping David - Platform 18
 
 3 Mid-point
 
@@ -48,6 +48,6 @@
 
 - Generator turns on
 
-- Finds Maintainance
+- Finds Maintenance
 
 - Enters Sewer
