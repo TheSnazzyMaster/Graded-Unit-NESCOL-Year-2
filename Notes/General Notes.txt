@@ -1,1 +1,17 @@
+Functional Req:
 
+The Game Project Will Have An Open Environment
+The Game Project Will Have More Than One Monster Type
+The Game Project Will Have Interactable Objects In The Level Space
+The Game Project Will Have Basic Movement Controls
+The Game Project Will Have Classic Horror Based Features (Stealth-Heavy, No Combat)
+
+
+
+Non-Functional Req:
+
+The Game Project Should Run At 60FPS Minimum
+The Game Project Should Maintain A Horror Aesthetic
+The Game Project Should Have A Thematic User Interface
+The Game Project Should Controls Should Follow Classic Horror Games (Shift Sprint, CTRL Crouch, etc)
+The Game Project Should Be Optimized for a Single Player Experience
