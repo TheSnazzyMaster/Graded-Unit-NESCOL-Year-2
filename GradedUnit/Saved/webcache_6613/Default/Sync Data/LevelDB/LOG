@@ -1,2 +1,3 @@
-2026/02/27-04:24:45.861 24a4 Creating DB C:\Users\rubys\OneDrive\Documents\GitHub\Graded-Unit-NESCOL-Year-2\GradedUnit\Saved\webcache_6613\Default\Sync Data\LevelDB since it was missing.
-2026/02/27-04:24:45.874 24a4 Reusing MANIFEST C:\Users\rubys\OneDrive\Documents\GitHub\Graded-Unit-NESCOL-Year-2\GradedUnit\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/02/28-16:07:59.340 a1a8 Reusing MANIFEST C:\Users\rubys\OneDrive\Documents\GitHub\Graded-Unit-NESCOL-Year-2\GradedUnit\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/02/28-16:07:59.347 a1a8 Recovering log #3
+2026/02/28-16:07:59.347 a1a8 Reusing old log C:\Users\rubys\OneDrive\Documents\GitHub\Graded-Unit-NESCOL-Year-2\GradedUnit\Saved\webcache_6613\Default\Sync Data\LevelDB/000003.log 
