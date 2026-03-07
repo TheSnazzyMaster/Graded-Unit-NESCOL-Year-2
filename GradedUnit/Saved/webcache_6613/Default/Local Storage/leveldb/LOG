@@ -1,30 +1,27 @@
-2026/02/28-16:07:59.383 a2f4 Reusing MANIFEST C:\Users\rubys\OneDrive\Documents\GitHub\Graded-Unit-NESCOL-Year-2\GradedUnit\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/02/28-16:07:59.393 a2f4 Recovering log #3
-2026/02/28-16:07:59.395 a2f4 Reusing old log C:\Users\rubys\OneDrive\Documents\GitHub\Graded-Unit-NESCOL-Year-2\GradedUnit\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
-2026/02/28-16:18:38.383 a2fc Level-0 table #5: started
-2026/02/28-16:18:38.393 a2fc Level-0 table #5: 70144 bytes OK
-2026/02/28-16:18:38.395 a2fc Delete type=0 #3
-2026/02/28-16:21:38.389 a2fc Level-0 table #7: started
-2026/02/28-16:21:38.395 a2fc Level-0 table #7: 70806 bytes OK
-2026/02/28-16:21:38.397 a2fc Delete type=0 #4
-2026/02/28-16:24:38.383 a2fc Level-0 table #9: started
-2026/02/28-16:24:38.386 a2fc Level-0 table #9: 70738 bytes OK
-2026/02/28-16:24:38.388 a2fc Delete type=0 #6
-2026/02/28-16:27:38.387 a2fc Level-0 table #11: started
-2026/02/28-16:27:38.391 a2fc Level-0 table #11: 70786 bytes OK
-2026/02/28-16:27:38.393 a2fc Delete type=0 #8
-2026/02/28-16:30:38.384 a2fc Level-0 table #13: started
-2026/02/28-16:30:38.389 a2fc Level-0 table #13: 71269 bytes OK
-2026/02/28-16:30:38.391 a2fc Delete type=0 #10
-2026/02/28-16:33:17.451 a2fc Level-0 table #15: started
-2026/02/28-16:33:17.457 a2fc Level-0 table #15: 71934 bytes OK
-2026/02/28-16:33:17.459 a2fc Delete type=0 #12
-2026/02/28-16:33:17.459 a2fc Compacting 4@0 + 1@1 files
-2026/02/28-16:33:17.467 a2fc Generated table #16@0: 2 keys, 24041 bytes
-2026/02/28-16:33:17.467 a2fc Compacted 4@0 + 1@1 files => 24041 bytes
-2026/02/28-16:33:17.468 a2fc compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/02/28-16:33:17.469 a2fc Delete type=2 #7
-2026/02/28-16:33:17.469 a2fc Delete type=2 #9
-2026/02/28-16:33:17.469 a2fc Delete type=2 #11
-2026/02/28-16:33:17.469 a2fc Delete type=2 #13
-2026/02/28-16:33:17.469 a2fc Delete type=2 #15
+2026/03/07-23:05:08.631 12c4 Reusing MANIFEST C:\Users\rubys\OneDrive\Documents\GitHub\Graded-Unit-NESCOL-Year-2\GradedUnit\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/07-23:05:08.647 12c4 Recovering log #14
+2026/03/07-23:05:08.651 12c4 Reusing old log C:\Users\rubys\OneDrive\Documents\GitHub\Graded-Unit-NESCOL-Year-2\GradedUnit\Saved\webcache_6613\Default\Local Storage\leveldb/000014.log 
+2026/03/07-23:07:17.661 24b4 Level-0 table #19: started
+2026/03/07-23:07:17.667 24b4 Level-0 table #19: 72842 bytes OK
+2026/03/07-23:07:17.669 24b4 Delete type=0 #14
+2026/03/07-23:10:17.651 24b4 Level-0 table #21: started
+2026/03/07-23:10:17.656 24b4 Level-0 table #21: 70450 bytes OK
+2026/03/07-23:10:17.657 24b4 Delete type=0 #18
+2026/03/07-23:13:17.656 24b4 Level-0 table #23: started
+2026/03/07-23:13:17.661 24b4 Level-0 table #23: 70754 bytes OK
+2026/03/07-23:13:17.662 24b4 Delete type=0 #20
+2026/03/07-23:16:17.657 24b4 Level-0 table #25: started
+2026/03/07-23:16:17.662 24b4 Level-0 table #25: 70770 bytes OK
+2026/03/07-23:16:17.664 24b4 Delete type=0 #22
+2026/03/07-23:16:17.665 24b4 Compacting 4@0 + 1@1 files
+2026/03/07-23:16:17.670 24b4 Generated table #26@0: 8 keys, 24650 bytes
+2026/03/07-23:16:17.670 24b4 Compacted 4@0 + 1@1 files => 24650 bytes
+2026/03/07-23:16:17.670 24b4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/07-23:16:17.671 24b4 Delete type=2 #16
+2026/03/07-23:16:17.671 24b4 Delete type=2 #19
+2026/03/07-23:16:17.671 24b4 Delete type=2 #21
+2026/03/07-23:16:17.672 24b4 Delete type=2 #23
+2026/03/07-23:16:17.672 24b4 Delete type=2 #25
+2026/03/07-23:19:17.659 24b4 Level-0 table #28: started
+2026/03/07-23:19:17.667 24b4 Level-0 table #28: 70770 bytes OK
+2026/03/07-23:19:17.669 24b4 Delete type=0 #24
