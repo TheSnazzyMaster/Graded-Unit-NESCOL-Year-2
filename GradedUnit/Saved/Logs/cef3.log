@@ -1,8 +1,14 @@
-[8:9092:0315/153804.300:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[8:17996:0315/153804.376:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[8:9092:0315/153804.411:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[25180:7176:0315/153808.368:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-29F97E0C6EF4D0C2B92DC26E6C7E5F9F will be ignored
-[16224:19064:0315/153810.020:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-7A86938810652C114209CB9044DFED5A will be ignored
-[17148:28860:0315/153913.464:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[8:9092:0315/160624.364:ERROR:device_event_log_impl.cc(196)] [16:06:24.245] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[8:9092:0315/162622.718:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[7052:13584:0318/000930.962:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[7052:29960:0318/000931.293:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[7052:13584:0318/000931.397:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[30328:30292:0318/000936.079:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-55AD8883D7027272998508FAFB356437 will be ignored
+[7052:29844:0318/000936.695:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[7052:13584:0318/000936.766:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[7052:13584:0318/000936.766:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[7052:13584:0318/000936.766:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[7052:13584:0318/000936.766:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[7052:29844:0318/000936.772:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[30252:30256:0318/000937.426:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-DF70F20AD6DC34B17A37D4FF7FD32B72 will be ignored
+[6680:2604:0318/001146.740:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[6680:2604:0318/001146.740:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[7052:13584:0318/003253.501:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
