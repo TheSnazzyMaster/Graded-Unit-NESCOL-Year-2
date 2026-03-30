@@ -1,0 +1,23 @@
+[10384:33168:0329/221837.345:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[10384:33168:0329/221837.352:ERROR:persistent_memory_allocator.cc(908)] Corruption detected in shared-memory segment.
+[10384:33168:0329/221837.352:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[10384:33168:0329/221837.380:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[10384:33168:0329/221837.382:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[10384:33168:0329/221837.387:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[10384:33168:0329/221837.387:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[10384:16088:0329/221837.387:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[10384:33168:0329/221837.388:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[10384:33168:0329/221837.408:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[10384:33168:0329/221837.408:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[10384:33168:0329/221837.423:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[10384:33168:0329/221837.432:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[10384:33168:0329/221839.832:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[10384:33168:0329/221839.832:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[10384:33168:0329/221839.833:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[34088:28352:0329/221841.168:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-38ED1550C933992C209E3BB4E3C30731 will be ignored
+[10384:33168:0329/221841.172:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[10384:33168:0329/221847.415:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[10384:33168:0329/221907.424:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[10384:33168:0329/231710.404:ERROR:device_event_log_impl.cc(196)] [23:17:10.383] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[10384:24156:0329/234044.269:ERROR:persistent_sample_map.cc(215)] NOTREACHED hit. corrupt=1
+[10384:33168:0329/234044.287:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
