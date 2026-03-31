@@ -1276,3 +1276,724 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.31-19.06.40:572][  2]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5.726361
 [2026.03.31-19.06.40:858][  5]LogAssetRegistry: Display: Asset registry cache written as 70.2 MiB to ../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Intermediate/CachedAssetRegistry_*.bin
 [2026.03.31-19.06.40:977][  5]LogSourceControl: Uncontrolled asset discovery finished in 0.690641 seconds (Found 8089 uncontrolled assets)
+[2026.03.31-19.06.41:663][  7]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2026.03.31-19.06.42:329][  9]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 7.152354
+[2026.03.31-19.06.42:331][  9]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -1646341118
+[2026.03.31-19.06.42:331][  9]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7.152354, Update Interval: 350.661346
+[2026.03.31-19.06.49:046][404]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Stairs_Copy.Stairs_Copy
+[2026.03.31-19.06.49:132][404]LogStreaming: Display: FlushAsyncLoading(662): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.31-19.07.22:780][190]LogEditorTransaction: Undo Translate Collision
+[2026.03.31-19.08.30:889][766]LogDerivedDataCache: C:/Users/rubys/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.31-19.08.56:010][762]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.31-19.08.56:074][762]LogFileHelpers: Saving Package: /Game/Stairs_Copy
+[2026.03.31-19.08.56:074][762]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Stairs_Copy] ([1] browsable assets)...
+[2026.03.31-19.08.56:082][762]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Stairs_Copy.Stairs_Copy]
+[2026.03.31-19.08.56:082][762]OBJ SavePackage: Finished generating thumbnails for package [/Game/Stairs_Copy]
+[2026.03.31-19.08.56:082][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Stairs_Copy" FILE="../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/Stairs_Copy.uasset" SILENT=true
+[2026.03.31-19.08.56:094][762]LogSavePackage: Moving output files for package: /Game/Stairs_Copy
+[2026.03.31-19.08.56:095][762]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/Stairs_Copy891F21DE4023E061A7D9C09D7ADD8121.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/Stairs_Copy.uasset'
+[2026.03.31-19.08.56:104][762]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.186 ms
+[2026.03.31-19.08.56:157][762]LogContentValidation: Enabled validators:
+[2026.03.31-19.08.56:157][762]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.31-19.08.56:157][762]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.31-19.08.56:157][762]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.31-19.08.56:157][762]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.31-19.08.56:157][762]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.31-19.08.56:157][762]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.31-19.08.56:157][762]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.03.31-19.08.56:157][762]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.03.31-19.08.56:158][762]AssetCheck: /Game/Stairs_Copy Validating asset
+[2026.03.31-19.08.56:158][762]LogContentValidation: Validated asset counts for 1 validators:
+[2026.03.31-19.08.56:158][762]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.03.31-19.09.07:597][896]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.31-19.09.07:598][896]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.03.31-19.09.07:599][896]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 1.700 ms
+[2026.03.31-19.09.07:599][896]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.03.31-19.09.07:599][896]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.31-19.09.07:603][896]LogOnline: OSS: Created online subsystem instance for: NULL
+[2026.03.31-19.09.07:603][896]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2026.03.31-19.09.07:603][896]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.03.31-19.09.07:627][896]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.31-19.09.07:631][896]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 5.065 ms
+[2026.03.31-19.09.07:631][896]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027972s)
+[2026.03.31-19.09.07:631][896]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.028017s)
+[2026.03.31-19.09.07:712][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.03.31-19.09.07:716][896]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.03.31-19.09.07:718][896]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.31-19.09.07:718][896]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.31-19.09.07:718][896]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.31-19.09.07:718][896]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.31-19.09.07:724][896]LogWorldPartition: Display: WorldPartition initialize took 5.476 ms (total: 149.163 ms)
+[2026.03.31-19.09.07:724][896]LogPlayLevel: PIE: World Init took: (0.007522s)
+[2026.03.31-19.09.07:724][896]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.03.31-19.09.07:724][896]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.31-19.09.07:724][896]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.31-19.09.07:724][896]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.31-19.09.07:724][896]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.31-19.09.07:724][896]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.31-19.09.07:724][896]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.31-19.09.07:724][896]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.31-19.09.07:724][896]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.31-19.09.07:724][896]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.31-19.09.07:724][896]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.31-19.09.07:724][896]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.31-19.09.07:726][896]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.31-19.09.07:740][896]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Speakers (Focusrite USB Audio)'
+[2026.03.31-19.09.07:744][896]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Analogue 1 + 2 (Focusrite USB Audio)'
+[2026.03.31-19.09.07:746][896]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Speakers (Focusrite USB Audio)'
+[2026.03.31-19.09.07:748][896]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Analogue 1 + 2 (Focusrite USB Audio)'
+[2026.03.31-19.09.07:750][896]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Speakers (Focusrite USB Audio)'
+[2026.03.31-19.09.07:753][896]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Analogue 1 + 2 (Focusrite USB Audio)'
+[2026.03.31-19.09.07:759][896]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Focusrite USB Audio)
+[2026.03.31-19.09.07:759][896]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.31-19.09.07:759][896]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.31-19.09.07:759][896]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.31-19.09.07:760][896]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2026.03.31-19.09.07:760][896]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.03.31-19.09.07:763][896]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.03.31-19.09.07:763][896]LogInit: FAudioDevice initialized with ID 2.
+[2026.03.31-19.09.07:763][896]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2026.03.31-19.09.07:763][896]LogAudio: Display: Audio Device (ID: 2) registered with world 'Lvl_FirstPerson'.
+[2026.03.31-19.09.07:763][896]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.03.31-19.09.07:767][896]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.31-19.09.07:778][896]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2026.03.31-20.09.07
+[2026.03.31-19.09.07:778][896]LogWorld: Bringing up level for play took: 0.010788
+[2026.03.31-19.09.07:780][896]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2026.03.31-19.09.07:788][896]PIE: Server logged in
+[2026.03.31-19.09.07:789][896]PIE: Play in editor total start time 0.192 seconds.
+[2026.03.31-19.09.07:889][897]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.31-19.09.08:843][993]Cmd: DebugManager.CycleToPreviousColumn
+[2026.03.31-19.09.18:118][105]Cmd: DebugManager.CycleToPreviousColumn
+[2026.03.31-19.10.12:011][559]LogHttp: Warning: HTTP request timed out after 3.00 seconds URL=https://www.google.com/generate_204
+[2026.03.31-19.12.32:671][415]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 357.828003
+[2026.03.31-19.12.32:838][435]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.31-19.12.32:838][435]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 357.986176, Update Interval: 357.760559
+[2026.03.31-19.18.33:111][644]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 718.267029
+[2026.03.31-19.18.33:287][665]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.31-19.18.33:287][665]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 718.433533, Update Interval: 318.230530
+[2026.03.31-19.23.52:006][873]LogHttp: Warning: HTTP request timed out after 3.00 seconds URL=https://www.google.com/generate_204
+[2026.03.31-19.23.59:344][753]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1044.505249
+[2026.03.31-19.24.08:962][903]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.31-19.24.08:962][903]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1054.114502, Update Interval: 323.806274
+[2026.03.31-19.29.46:387][369]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1391.534546
+[2026.03.31-19.29.46:546][388]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.31-19.29.46:546][388]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1391.685913, Update Interval: 314.916229
+[2026.03.31-19.35.26:095][ 92]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1731.250732
+[2026.03.31-19.35.26:238][109]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.31-19.35.26:238][109]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1731.384399, Update Interval: 324.207275
+[2026.03.31-19.37.02:360][635]Cmd: DebugManager.CycleToPreviousColumn
+[2026.03.31-19.37.06:962][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.31-19.37.06:963][184]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.03.31-19.37.06:963][184]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.31-19.37.06:966][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.31-19.37.06:966][184]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.03.31-19.37.06:967][184]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.31-19.37.06:970][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.31-19.37.06:989][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.31-19.37.06:989][184]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.03.31-19.37.06:989][184]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2026.03.31-19.37.06:991][184]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2026.03.31-19.37.07:000][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.03.31-19.37.07:078][185]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2026.03.31-19.37.15:390][ 46]Cmd: ACTOR HIDE SELECTED
+[2026.03.31-19.38.08:425][967]Cmd: MODE SCALEGRID=1
+[2026.03.31-19.38.08:926][ 11]Cmd: MODE SCALEGRID=0
+[2026.03.31-19.41.44:144][198]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.31-19.41.44:191][198]LogFileHelpers: Saving Package: /Game/Stairs_Copy
+[2026.03.31-19.41.44:191][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Stairs_Copy] ([1] browsable assets)...
+[2026.03.31-19.41.44:191][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Stairs_Copy]
+[2026.03.31-19.41.44:191][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Stairs_Copy" FILE="../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/Stairs_Copy.uasset" SILENT=true
+[2026.03.31-19.41.44:201][198]LogSavePackage: Moving output files for package: /Game/Stairs_Copy
+[2026.03.31-19.41.44:203][198]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/Stairs_CopyD453106C4ECC6986DE1D7AA49DCA3AFD.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/Stairs_Copy.uasset'
+[2026.03.31-19.41.44:210][198]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.153 ms (total: 161.340 ms)
+[2026.03.31-19.41.44:273][198]LogContentValidation: Enabled validators:
+[2026.03.31-19.41.44:273][198]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.31-19.41.44:273][198]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.31-19.41.44:273][198]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.31-19.41.44:273][198]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.31-19.41.44:273][198]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.31-19.41.44:273][198]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.31-19.41.44:273][198]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.03.31-19.41.44:273][198]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.03.31-19.41.44:273][198]AssetCheck: /Game/Stairs_Copy Validating asset
+[2026.03.31-19.41.44:274][198]LogContentValidation: Validated asset counts for 1 validators:
+[2026.03.31-19.41.44:274][198]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.03.31-19.41.44:291][198]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2109.440674
+[2026.03.31-19.41.44:456][207]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.31-19.41.44:456][207]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2109.595459, Update Interval: 319.204681
+[2026.03.31-19.41.50:192][792]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.31-19.41.50:192][792]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.03.31-19.41.50:195][792]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 2.240 ms (total: 3.941 ms)
+[2026.03.31-19.41.50:195][792]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.03.31-19.41.50:195][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.31-19.41.50:222][792]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.03.31-19.41.50:246][792]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.31-19.41.50:251][792]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 5.199 ms (total: 10.264 ms)
+[2026.03.31-19.41.50:251][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028830s)
+[2026.03.31-19.41.50:251][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.028879s)
+[2026.03.31-19.41.50:270][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.03.31-19.41.50:275][792]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.03.31-19.41.50:277][792]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.31-19.41.50:277][792]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.31-19.41.50:277][792]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.31-19.41.50:277][792]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.31-19.41.50:282][792]LogWorldPartition: Display: WorldPartition initialize took 5.597 ms (total: 154.760 ms)
+[2026.03.31-19.41.50:282][792]LogPlayLevel: PIE: World Init took: (0.007499s)
+[2026.03.31-19.41.50:282][792]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.03.31-19.41.50:282][792]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.31-19.41.50:282][792]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.31-19.41.50:282][792]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.31-19.41.50:282][792]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.31-19.41.50:282][792]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.31-19.41.50:282][792]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.31-19.41.50:282][792]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.31-19.41.50:282][792]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.31-19.41.50:282][792]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.31-19.41.50:282][792]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.31-19.41.50:282][792]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.31-19.41.50:285][792]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.31-19.41.50:300][792]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Speakers (Focusrite USB Audio)'
+[2026.03.31-19.41.50:304][792]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Analogue 1 + 2 (Focusrite USB Audio)'
+[2026.03.31-19.41.50:306][792]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Speakers (Focusrite USB Audio)'
+[2026.03.31-19.41.50:309][792]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Analogue 1 + 2 (Focusrite USB Audio)'
+[2026.03.31-19.41.50:311][792]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Speakers (Focusrite USB Audio)'
+[2026.03.31-19.41.50:314][792]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Analogue 1 + 2 (Focusrite USB Audio)'
+[2026.03.31-19.41.50:320][792]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Focusrite USB Audio)
+[2026.03.31-19.41.50:320][792]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.31-19.41.50:320][792]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.31-19.41.50:320][792]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.31-19.41.50:321][792]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.03.31-19.41.50:321][792]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.03.31-19.41.50:323][792]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.03.31-19.41.50:323][792]LogInit: FAudioDevice initialized with ID 3.
+[2026.03.31-19.41.50:323][792]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.03.31-19.41.50:323][792]LogAudio: Display: Audio Device (ID: 3) registered with world 'Lvl_FirstPerson'.
+[2026.03.31-19.41.50:323][792]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.03.31-19.41.50:329][792]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.31-19.41.50:340][792]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2026.03.31-20.41.50
+[2026.03.31-19.41.50:341][792]LogWorld: Bringing up level for play took: 0.011937
+[2026.03.31-19.41.50:344][792]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2026.03.31-19.41.50:349][792]PIE: Server logged in
+[2026.03.31-19.41.50:352][792]PIE: Play in editor total start time 0.159 seconds.
+[2026.03.31-19.41.50:405][793]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.31-19.41.53:182][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.31-19.41.53:182][115]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.03.31-19.41.53:183][115]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.31-19.41.53:187][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.31-19.41.53:187][115]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.03.31-19.41.53:188][115]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.31-19.41.53:190][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.31-19.41.53:210][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.31-19.41.53:211][115]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.03.31-19.41.53:211][115]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2026.03.31-19.41.53:214][115]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2026.03.31-19.41.53:221][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.03.31-19.41.53:287][116]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2026.03.31-19.41.57:632][589]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.31-19.41.57:632][589]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.03.31-19.41.57:634][589]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 1.945 ms (total: 5.886 ms)
+[2026.03.31-19.41.57:634][589]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.03.31-19.41.57:634][589]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.31-19.41.57:672][589]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.03.31-19.41.57:694][589]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.31-19.41.57:699][589]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 5.110 ms (total: 15.375 ms)
+[2026.03.31-19.41.57:699][589]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027917s)
+[2026.03.31-19.41.57:699][589]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.027957s)
+[2026.03.31-19.41.57:717][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.03.31-19.41.57:718][589]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.03.31-19.41.57:720][589]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.31-19.41.57:720][589]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.31-19.41.57:720][589]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.31-19.41.57:720][589]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.31-19.41.57:725][589]LogWorldPartition: Display: WorldPartition initialize took 5.463 ms (total: 160.224 ms)
+[2026.03.31-19.41.57:725][589]LogPlayLevel: PIE: World Init took: (0.007172s)
+[2026.03.31-19.41.57:725][589]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.03.31-19.41.57:725][589]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.31-19.41.57:725][589]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.31-19.41.57:725][589]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.31-19.41.57:725][589]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.31-19.41.57:725][589]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.31-19.41.57:725][589]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.31-19.41.57:725][589]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.31-19.41.57:726][589]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.31-19.41.57:726][589]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.31-19.41.57:726][589]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.31-19.41.57:726][589]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.31-19.41.57:728][589]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.31-19.41.57:742][589]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Speakers (Focusrite USB Audio)'
+[2026.03.31-19.41.57:745][589]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Analogue 1 + 2 (Focusrite USB Audio)'
+[2026.03.31-19.41.57:747][589]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Speakers (Focusrite USB Audio)'
+[2026.03.31-19.41.57:750][589]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Analogue 1 + 2 (Focusrite USB Audio)'
+[2026.03.31-19.41.57:752][589]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Speakers (Focusrite USB Audio)'
+[2026.03.31-19.41.57:754][589]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Analogue 1 + 2 (Focusrite USB Audio)'
+[2026.03.31-19.41.57:759][589]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Focusrite USB Audio)
+[2026.03.31-19.41.57:759][589]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.31-19.41.57:759][589]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.31-19.41.57:759][589]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.31-19.41.57:760][589]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2026.03.31-19.41.57:760][589]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.03.31-19.41.57:762][589]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.03.31-19.41.57:762][589]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2026.03.31-19.41.57:762][589]LogInit: FAudioDevice initialized with ID 4.
+[2026.03.31-19.41.57:762][589]LogAudio: Display: Audio Device (ID: 4) registered with world 'Lvl_FirstPerson'.
+[2026.03.31-19.41.57:762][589]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.03.31-19.41.57:766][589]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.31-19.41.57:778][589]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2026.03.31-20.41.57
+[2026.03.31-19.41.57:778][589]LogWorld: Bringing up level for play took: 0.011480
+[2026.03.31-19.41.57:780][589]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2026.03.31-19.41.57:785][589]PIE: Server logged in
+[2026.03.31-19.41.57:786][589]PIE: Play in editor total start time 0.155 seconds.
+[2026.03.31-19.41.57:840][590]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.31-19.41.58:968][719]Cmd: DebugManager.CycleToPreviousColumn
+[2026.03.31-19.42.09:262][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.31-19.42.09:262][950]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.03.31-19.42.09:264][950]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.31-19.42.09:267][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.31-19.42.09:267][950]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.03.31-19.42.09:268][950]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.31-19.42.09:272][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.31-19.42.09:290][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.31-19.42.09:292][950]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.03.31-19.42.09:292][950]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2026.03.31-19.42.09:294][950]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2026.03.31-19.42.09:302][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.03.31-19.42.09:376][951]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2026.03.31-19.42.19:669][106]Cmd: TRANSACTION UNDO
+[2026.03.31-19.42.19:669][106]LogEditorTransaction: Undo Move Elements
+[2026.03.31-19.43.11:133][917]Cmd: TRANSACTION UNDO
+[2026.03.31-19.43.11:133][917]LogEditorTransaction: Undo Move Elements
+[2026.03.31-19.43.23:053][152]Cmd: TRANSACTION UNDO
+[2026.03.31-19.43.23:053][152]LogEditorTransaction: Undo Move Elements
+[2026.03.31-19.43.41:777][208]Cmd: DELETE
+[2026.03.31-19.43.41:777][208]Cmd: ACTOR DELETE
+[2026.03.31-19.43.41:780][208]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.31-19.43.41:781][208]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.31-19.43.41:781][208]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.31-19.43.41:782][208]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.31-19.43.41:783][208]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.31-19.43.41:801][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.03.31-19.43.41:805][208]LogEditorActor: Deleted 5 Actors (0.028 secs)
+[2026.03.31-19.45.03:069][377]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.31-19.45.03:069][377]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.03.31-19.45.03:073][377]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 3.213 ms (total: 9.099 ms)
+[2026.03.31-19.45.03:073][377]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.03.31-19.45.03:073][377]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.31-19.45.03:122][377]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.03.31-19.45.03:146][377]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.31-19.45.03:151][377]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 5.347 ms (total: 20.723 ms)
+[2026.03.31-19.45.03:151][377]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029259s)
+[2026.03.31-19.45.03:151][377]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.029305s)
+[2026.03.31-19.45.03:169][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.03.31-19.45.03:176][377]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.03.31-19.45.03:178][377]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.31-19.45.03:178][377]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.31-19.45.03:178][377]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.31-19.45.03:178][377]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.31-19.45.03:183][377]LogWorldPartition: Display: WorldPartition initialize took 5.882 ms (total: 166.107 ms)
+[2026.03.31-19.45.03:183][377]LogPlayLevel: PIE: World Init took: (0.007684s)
+[2026.03.31-19.45.03:184][377]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.03.31-19.45.03:184][377]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.31-19.45.03:184][377]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.31-19.45.03:184][377]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.31-19.45.03:184][377]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.31-19.45.03:184][377]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.31-19.45.03:184][377]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.31-19.45.03:184][377]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.31-19.45.03:184][377]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.31-19.45.03:184][377]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.31-19.45.03:184][377]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.31-19.45.03:184][377]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.31-19.45.03:186][377]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.31-19.45.03:200][377]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Speakers (Focusrite USB Audio)'
+[2026.03.31-19.45.03:203][377]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Analogue 1 + 2 (Focusrite USB Audio)'
+[2026.03.31-19.45.03:205][377]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Speakers (Focusrite USB Audio)'
+[2026.03.31-19.45.03:208][377]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Analogue 1 + 2 (Focusrite USB Audio)'
+[2026.03.31-19.45.03:210][377]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Speakers (Focusrite USB Audio)'
+[2026.03.31-19.45.03:213][377]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Analogue 1 + 2 (Focusrite USB Audio)'
+[2026.03.31-19.45.03:219][377]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Focusrite USB Audio)
+[2026.03.31-19.45.03:219][377]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.31-19.45.03:219][377]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.31-19.45.03:219][377]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.31-19.45.03:219][377]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.03.31-19.45.03:219][377]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.03.31-19.45.03:221][377]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.03.31-19.45.03:221][377]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.03.31-19.45.03:221][377]LogInit: FAudioDevice initialized with ID 5.
+[2026.03.31-19.45.03:221][377]LogAudio: Display: Audio Device (ID: 5) registered with world 'Lvl_FirstPerson'.
+[2026.03.31-19.45.03:221][377]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.03.31-19.45.03:225][377]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.31-19.45.03:237][377]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2026.03.31-20.45.03
+[2026.03.31-19.45.03:238][377]LogWorld: Bringing up level for play took: 0.011919
+[2026.03.31-19.45.03:240][377]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2026.03.31-19.45.03:245][377]PIE: Server logged in
+[2026.03.31-19.45.03:247][377]PIE: Play in editor total start time 0.178 seconds.
+[2026.03.31-19.45.03:297][378]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.31-19.45.06:082][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.31-19.45.06:082][700]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.03.31-19.45.06:084][700]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.31-19.45.06:087][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.31-19.45.06:087][700]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.03.31-19.45.06:089][700]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.31-19.45.06:092][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.31-19.45.06:112][700]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.31-19.45.06:112][700]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.03.31-19.45.06:113][700]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2026.03.31-19.45.06:115][700]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2026.03.31-19.45.06:118][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.31-19.45.06:123][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.03.31-19.45.06:190][701]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2026.03.31-19.45.11:441][268]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.31-19.45.11:441][268]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.03.31-19.45.11:444][268]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 2.917 ms (total: 12.017 ms)
+[2026.03.31-19.45.11:444][268]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.03.31-19.45.11:444][268]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.31-19.45.11:482][268]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.03.31-19.45.11:506][268]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.31-19.45.11:515][268]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 8.214 ms (total: 28.938 ms)
+[2026.03.31-19.45.11:515][268]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032826s)
+[2026.03.31-19.45.11:515][268]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.032867s)
+[2026.03.31-19.45.11:531][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.03.31-19.45.11:533][268]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.03.31-19.45.11:534][268]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.31-19.45.11:534][268]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.31-19.45.11:534][268]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.31-19.45.11:534][268]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.31-19.45.11:540][268]LogWorldPartition: Display: WorldPartition initialize took 5.939 ms (total: 172.047 ms)
+[2026.03.31-19.45.11:540][268]LogPlayLevel: PIE: World Init took: (0.007629s)
+[2026.03.31-19.45.11:540][268]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.03.31-19.45.11:540][268]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.31-19.45.11:540][268]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.31-19.45.11:541][268]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.31-19.45.11:541][268]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.31-19.45.11:541][268]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.31-19.45.11:541][268]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.31-19.45.11:541][268]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.31-19.45.11:541][268]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.31-19.45.11:541][268]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.31-19.45.11:541][268]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.31-19.45.11:541][268]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.31-19.45.11:543][268]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.31-19.45.11:557][268]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Speakers (Focusrite USB Audio)'
+[2026.03.31-19.45.11:559][268]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='Analogue 1 + 2 (Focusrite USB Audio)'
+[2026.03.31-19.45.11:562][268]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Speakers (Focusrite USB Audio)'
+[2026.03.31-19.45.11:565][268]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='Analogue 1 + 2 (Focusrite USB Audio)'
+[2026.03.31-19.45.11:567][268]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Speakers (Focusrite USB Audio)'
+[2026.03.31-19.45.11:570][268]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='Analogue 1 + 2 (Focusrite USB Audio)'
+[2026.03.31-19.45.11:574][268]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Focusrite USB Audio)
+[2026.03.31-19.45.11:574][268]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.31-19.45.11:575][268]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.31-19.45.11:575][268]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.31-19.45.11:575][268]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.03.31-19.45.11:575][268]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.03.31-19.45.11:577][268]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.03.31-19.45.11:577][268]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.03.31-19.45.11:577][268]LogInit: FAudioDevice initialized with ID 6.
+[2026.03.31-19.45.11:578][268]LogAudio: Display: Audio Device (ID: 6) registered with world 'Lvl_FirstPerson'.
+[2026.03.31-19.45.11:578][268]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.03.31-19.45.11:581][268]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.31-19.45.11:593][268]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2026.03.31-20.45.11
+[2026.03.31-19.45.11:593][268]LogWorld: Bringing up level for play took: 0.011761
+[2026.03.31-19.45.11:596][268]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2026.03.31-19.45.11:601][268]PIE: Server logged in
+[2026.03.31-19.45.11:603][268]PIE: Play in editor total start time 0.161 seconds.
+[2026.03.31-19.45.11:656][269]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.31-19.45.12:890][411]Cmd: DebugManager.CycleToPreviousColumn
+[2026.03.31-19.45.23:632][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.31-19.45.23:632][696]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.03.31-19.45.23:633][696]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.31-19.45.23:636][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.31-19.45.23:636][696]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.03.31-19.45.23:638][696]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.31-19.45.23:640][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.31-19.45.23:660][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.31-19.45.23:661][696]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.03.31-19.45.23:662][696]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2026.03.31-19.45.23:663][696]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2026.03.31-19.45.23:672][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.03.31-19.45.23:736][697]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2026.03.31-19.45.40:726][577]Cmd: DELETE
+[2026.03.31-19.45.40:726][577]Cmd: ACTOR DELETE
+[2026.03.31-19.45.40:730][577]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.31-19.45.40:731][577]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.31-19.45.40:731][577]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.31-19.45.40:732][577]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.31-19.45.40:732][577]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.31-19.45.40:733][577]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.31-19.45.40:749][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.03.31-19.45.40:753][577]LogEditorActor: Deleted 6 Actors (0.027 secs)
+[2026.03.31-19.45.43:392][884]Cmd: DELETE
+[2026.03.31-19.45.43:392][884]Cmd: ACTOR DELETE
+[2026.03.31-19.45.43:394][884]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.31-19.45.43:411][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.03.31-19.45.43:415][884]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2026.03.31-19.45.44:533][ 16]Cmd: TRANSACTION UNDO
+[2026.03.31-19.45.44:533][ 16]LogEditorTransaction: Undo Delete Elements
+[2026.03.31-19.46.37:160][612]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.31-19.46.37:234][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.03.31-19.46.37:254][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.03.31-19.46.37:269][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.03.31-19.46.37:278][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/C4/X20NI1S1URXHPI4JDCYRWT
+[2026.03.31-19.46.37:286][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/C4/X20NI1S1URXHPI4JDCYRWT
+[2026.03.31-19.46.37:288][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/X20NI1S1URXHPI4JDCYRWTA3F9D0F54AEA031C783994A3A7B7359E.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/C4/X20NI1S1URXHPI4JDCYRWT.uasset'
+[2026.03.31-19.46.37:290][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/3Y/R3SDKUOO4GDPZFII6VGU0S
+[2026.03.31-19.46.37:298][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/3Y/R3SDKUOO4GDPZFII6VGU0S
+[2026.03.31-19.46.37:298][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/R3SDKUOO4GDPZFII6VGU0S477308604BF9E244900ED98504F2C5C3.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/3Y/R3SDKUOO4GDPZFII6VGU0S.uasset'
+[2026.03.31-19.46.37:310][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/YE/EP29R12RRW9S1ORZIF1XIS
+[2026.03.31-19.46.37:316][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/YE/EP29R12RRW9S1ORZIF1XIS
+[2026.03.31-19.46.37:316][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/EP29R12RRW9S1ORZIF1XISC50DD8444636AE15D8EA82B999F9F082.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/YE/EP29R12RRW9S1ORZIF1XIS.uasset'
+[2026.03.31-19.46.37:317][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/1H/HFIA6SGGBDBFFCK77W4LG8
+[2026.03.31-19.46.37:324][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/1H/HFIA6SGGBDBFFCK77W4LG8
+[2026.03.31-19.46.37:324][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/HFIA6SGGBDBFFCK77W4LG8653A99DA43445E0C470045BD58748D53.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/1H/HFIA6SGGBDBFFCK77W4LG8.uasset'
+[2026.03.31-19.46.37:326][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/YD/CJH0KYRUCCYZ7UOTX6QVSN
+[2026.03.31-19.46.37:332][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/YD/CJH0KYRUCCYZ7UOTX6QVSN
+[2026.03.31-19.46.37:332][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/CJH0KYRUCCYZ7UOTX6QVSN5E917F3F40AAFE736601F48EC8A4262C.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/YD/CJH0KYRUCCYZ7UOTX6QVSN.uasset'
+[2026.03.31-19.46.37:333][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/AV/OYJB4ZB8L7KPQ83SBAOQG8
+[2026.03.31-19.46.37:340][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/AV/OYJB4ZB8L7KPQ83SBAOQG8
+[2026.03.31-19.46.37:340][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/OYJB4ZB8L7KPQ83SBAOQG86A8C647A4FA9DB4419157BBEA61A72B8.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/AV/OYJB4ZB8L7KPQ83SBAOQG8.uasset'
+[2026.03.31-19.46.37:342][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/EF/NZP7EZYPZY8K3N8AL1F5NZ
+[2026.03.31-19.46.37:347][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/EF/NZP7EZYPZY8K3N8AL1F5NZ
+[2026.03.31-19.46.37:347][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/NZP7EZYPZY8K3N8AL1F5NZC7C16E5240E7482D0582F2A57A884F8A.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/EF/NZP7EZYPZY8K3N8AL1F5NZ.uasset'
+[2026.03.31-19.46.37:348][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/8C/O4LCCHZA1T7YLPC8GL50MA
+[2026.03.31-19.46.37:356][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/8C/O4LCCHZA1T7YLPC8GL50MA
+[2026.03.31-19.46.37:356][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/O4LCCHZA1T7YLPC8GL50MA16B91B0A4262F3D09683F8862D9F0E4E.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/8C/O4LCCHZA1T7YLPC8GL50MA.uasset'
+[2026.03.31-19.46.37:357][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/VW/3T9J9XZMI9KF4Z5MMK4ENY
+[2026.03.31-19.46.37:365][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/VW/3T9J9XZMI9KF4Z5MMK4ENY
+[2026.03.31-19.46.37:365][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/3T9J9XZMI9KF4Z5MMK4ENYED67ECB8427A5AE421A3C786FD0483CC.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/VW/3T9J9XZMI9KF4Z5MMK4ENY.uasset'
+[2026.03.31-19.46.37:366][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/7Q/2I3T2T66Z5GYVCUB45FYXL
+[2026.03.31-19.46.37:373][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/7Q/2I3T2T66Z5GYVCUB45FYXL
+[2026.03.31-19.46.37:373][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/2I3T2T66Z5GYVCUB45FYXL564798634DF376E43AA4EA83C65DFE25.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/7Q/2I3T2T66Z5GYVCUB45FYXL.uasset'
+[2026.03.31-19.46.37:375][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/C1/9EIQT9QUPBLFFR8V2USWBF
+[2026.03.31-19.46.37:380][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/C1/9EIQT9QUPBLFFR8V2USWBF
+[2026.03.31-19.46.37:380][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/9EIQT9QUPBLFFR8V2USWBF349F806F4E78A96F01F4658E04B8C6F5.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/C1/9EIQT9QUPBLFFR8V2USWBF.uasset'
+[2026.03.31-19.46.37:381][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/ZH/FBOJ9CFRIGNI34VS3D9MN0
+[2026.03.31-19.46.37:387][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/ZH/FBOJ9CFRIGNI34VS3D9MN0
+[2026.03.31-19.46.37:387][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/FBOJ9CFRIGNI34VS3D9MN05934A1DC40DB536F6BC7E3AFAF4B18D1.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/ZH/FBOJ9CFRIGNI34VS3D9MN0.uasset'
+[2026.03.31-19.46.37:389][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/S4/0BTUA37SN9TTGDG05QPEQB
+[2026.03.31-19.46.37:395][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/S4/0BTUA37SN9TTGDG05QPEQB
+[2026.03.31-19.46.37:395][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/0BTUA37SN9TTGDG05QPEQB5399EE004408DB7892C2F79C95564B91.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/S4/0BTUA37SN9TTGDG05QPEQB.uasset'
+[2026.03.31-19.46.37:397][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/U7/KY6SAUHUDMJ0WWS6BFPBUR
+[2026.03.31-19.46.37:404][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/U7/KY6SAUHUDMJ0WWS6BFPBUR
+[2026.03.31-19.46.37:404][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/KY6SAUHUDMJ0WWS6BFPBUR978A39EB48B65932440112A209CBE7BE.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/U7/KY6SAUHUDMJ0WWS6BFPBUR.uasset'
+[2026.03.31-19.46.37:406][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/IV/55WX1EJX2H8YF4YL9WLPNH
+[2026.03.31-19.46.37:415][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/IV/55WX1EJX2H8YF4YL9WLPNH
+[2026.03.31-19.46.37:415][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/55WX1EJX2H8YF4YL9WLPNH68652F414A3265BA3ED70FA6E5B5CB3D.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/IV/55WX1EJX2H8YF4YL9WLPNH.uasset'
+[2026.03.31-19.46.37:416][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/TG/IPBLIFP01R5B09AZS8QR62
+[2026.03.31-19.46.37:424][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/TG/IPBLIFP01R5B09AZS8QR62
+[2026.03.31-19.46.37:424][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/IPBLIFP01R5B09AZS8QR62C9A86DD943368E9C5DDF2C8F2F0527F4.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/TG/IPBLIFP01R5B09AZS8QR62.uasset'
+[2026.03.31-19.46.37:425][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/16/ABC84AHTN85UYA1LFHG37I
+[2026.03.31-19.46.37:431][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/16/ABC84AHTN85UYA1LFHG37I
+[2026.03.31-19.46.37:431][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/ABC84AHTN85UYA1LFHG37I6098F5B34B4768C699128EBB65AEBE32.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/16/ABC84AHTN85UYA1LFHG37I.uasset'
+[2026.03.31-19.46.37:433][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/4Y/6HMV4SILOCD6PDTQRFJPTW
+[2026.03.31-19.46.37:441][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/4Y/6HMV4SILOCD6PDTQRFJPTW
+[2026.03.31-19.46.37:441][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/6HMV4SILOCD6PDTQRFJPTW0DE6337F47E524BBA048359583A11EFE.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/4Y/6HMV4SILOCD6PDTQRFJPTW.uasset'
+[2026.03.31-19.46.37:442][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/C9/5ZMXT1QMUM0VJD5DRJWSHU
+[2026.03.31-19.46.37:449][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/C9/5ZMXT1QMUM0VJD5DRJWSHU
+[2026.03.31-19.46.37:449][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/5ZMXT1QMUM0VJD5DRJWSHUA80BF123456AE499BB7F5BA7F116C10C.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/C9/5ZMXT1QMUM0VJD5DRJWSHU.uasset'
+[2026.03.31-19.46.37:450][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/3P/GWHL9AI7QX71DB95I6DHDI
+[2026.03.31-19.46.37:457][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/3P/GWHL9AI7QX71DB95I6DHDI
+[2026.03.31-19.46.37:457][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/GWHL9AI7QX71DB95I6DHDIBFAD3439442C0201C394129794A0D349.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/3P/GWHL9AI7QX71DB95I6DHDI.uasset'
+[2026.03.31-19.46.37:458][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/Y0/B30ODQDSMNZPMQTAX3FOD0
+[2026.03.31-19.46.37:465][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/Y0/B30ODQDSMNZPMQTAX3FOD0
+[2026.03.31-19.46.37:465][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/B30ODQDSMNZPMQTAX3FOD025C37477448EF99F6FC8EB814F65A58A.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/Y0/B30ODQDSMNZPMQTAX3FOD0.uasset'
+[2026.03.31-19.46.37:466][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/Q1/BEPD4VFPEFRMYV0XADJE7Y
+[2026.03.31-19.46.37:471][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/Q1/BEPD4VFPEFRMYV0XADJE7Y
+[2026.03.31-19.46.37:471][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/BEPD4VFPEFRMYV0XADJE7YFF8132A04EA8D36032E3B1B6B285CCF8.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/Q1/BEPD4VFPEFRMYV0XADJE7Y.uasset'
+[2026.03.31-19.46.37:472][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/TN/M40PONPX0XZ35DADEIFNEN
+[2026.03.31-19.46.37:478][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/TN/M40PONPX0XZ35DADEIFNEN
+[2026.03.31-19.46.37:478][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/M40PONPX0XZ35DADEIFNEN164660C2433D75107BF544840395C4AC.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/TN/M40PONPX0XZ35DADEIFNEN.uasset'
+[2026.03.31-19.46.37:480][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/F/3I/Z695C2EOO5VV76Y9NX3SHW
+[2026.03.31-19.46.37:487][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/F/3I/Z695C2EOO5VV76Y9NX3SHW
+[2026.03.31-19.46.37:487][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/Z695C2EOO5VV76Y9NX3SHW4E4C8474421F1CAB95A88B9C60ECD70F.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/F/3I/Z695C2EOO5VV76Y9NX3SHW.uasset'
+[2026.03.31-19.46.37:489][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/YM/8BLO1LWJ7MAQR5WV6ZY6QG
+[2026.03.31-19.46.37:494][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/YM/8BLO1LWJ7MAQR5WV6ZY6QG
+[2026.03.31-19.46.37:494][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/8BLO1LWJ7MAQR5WV6ZY6QG5A537C264D36832DFB425392A7C8184E.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/YM/8BLO1LWJ7MAQR5WV6ZY6QG.uasset'
+[2026.03.31-19.46.37:496][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/23/1TS8V3KPL9HDFWARDZFY4D
+[2026.03.31-19.46.37:503][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/23/1TS8V3KPL9HDFWARDZFY4D
+[2026.03.31-19.46.37:503][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/1TS8V3KPL9HDFWARDZFY4DCDA12750466ED5C22E01A7BFBA4AD110.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/23/1TS8V3KPL9HDFWARDZFY4D.uasset'
+[2026.03.31-19.46.37:505][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/KC/YCU00UGDMQCLAPX39R6QPZ
+[2026.03.31-19.46.37:510][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/KC/YCU00UGDMQCLAPX39R6QPZ
+[2026.03.31-19.46.37:510][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/YCU00UGDMQCLAPX39R6QPZ36AFD7C04119A328A6D53D9DB74AC468.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/KC/YCU00UGDMQCLAPX39R6QPZ.uasset'
+[2026.03.31-19.46.37:513][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/UG/93TIOQD0BX9UD0G3X83GZU
+[2026.03.31-19.46.37:519][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/UG/93TIOQD0BX9UD0G3X83GZU
+[2026.03.31-19.46.37:519][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/93TIOQD0BX9UD0G3X83GZUF2638427426A5BCBA57A15B6774CF3B2.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/UG/93TIOQD0BX9UD0G3X83GZU.uasset'
+[2026.03.31-19.46.37:520][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/FJ/2YRJR01GQ9HRS02HVM56H6
+[2026.03.31-19.46.37:526][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/FJ/2YRJR01GQ9HRS02HVM56H6
+[2026.03.31-19.46.37:526][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/2YRJR01GQ9HRS02HVM56H6575B7B12497CDD0C532D988E98CB0C1F.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/FJ/2YRJR01GQ9HRS02HVM56H6.uasset'
+[2026.03.31-19.46.37:528][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/IG/LA3H2Z3Z6B411KJMRD2AY8
+[2026.03.31-19.46.37:534][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/IG/LA3H2Z3Z6B411KJMRD2AY8
+[2026.03.31-19.46.37:534][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/LA3H2Z3Z6B411KJMRD2AY86822821B4E43FBFD56F3FD907D90F84F.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/IG/LA3H2Z3Z6B411KJMRD2AY8.uasset'
+[2026.03.31-19.46.37:535][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/75/TA15T40J6ASWQLIYLZZ6D5
+[2026.03.31-19.46.37:542][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/75/TA15T40J6ASWQLIYLZZ6D5
+[2026.03.31-19.46.37:542][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/TA15T40J6ASWQLIYLZZ6D5387E6C4D40492D27D535C2AC5B5ED975.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/75/TA15T40J6ASWQLIYLZZ6D5.uasset'
+[2026.03.31-19.46.37:543][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/RC/K7YB6WSN1HGG2NL9JKEUTP
+[2026.03.31-19.46.37:550][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/RC/K7YB6WSN1HGG2NL9JKEUTP
+[2026.03.31-19.46.37:550][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/K7YB6WSN1HGG2NL9JKEUTPC1BF48654019428564102DAEF4958D22.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/RC/K7YB6WSN1HGG2NL9JKEUTP.uasset'
+[2026.03.31-19.46.37:552][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/NH/2HORA8XZVNG8XKG5YIKB8R
+[2026.03.31-19.46.37:558][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/NH/2HORA8XZVNG8XKG5YIKB8R
+[2026.03.31-19.46.37:558][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/2HORA8XZVNG8XKG5YIKB8R640684CE4B519F9FD8D98FA5F67BB279.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/NH/2HORA8XZVNG8XKG5YIKB8R.uasset'
+[2026.03.31-19.46.37:559][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/O3/QNE545WZ9V9VC3L3P92RVA
+[2026.03.31-19.46.37:567][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/O3/QNE545WZ9V9VC3L3P92RVA
+[2026.03.31-19.46.37:567][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/QNE545WZ9V9VC3L3P92RVA2E419F864957CDBE44BE38A925865943.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/O3/QNE545WZ9V9VC3L3P92RVA.uasset'
+[2026.03.31-19.46.37:568][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/CU/GDIWWAGDXM990IE8OXRAHE
+[2026.03.31-19.46.37:574][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/CU/GDIWWAGDXM990IE8OXRAHE
+[2026.03.31-19.46.37:574][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/GDIWWAGDXM990IE8OXRAHEF48116A245D10BC07C2A61999CFC8ED1.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/CU/GDIWWAGDXM990IE8OXRAHE.uasset'
+[2026.03.31-19.46.37:575][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/F/1O/WVEZ09LV6CQPHAHBIXBXDO
+[2026.03.31-19.46.37:582][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/F/1O/WVEZ09LV6CQPHAHBIXBXDO
+[2026.03.31-19.46.37:582][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/WVEZ09LV6CQPHAHBIXBXDODE4A275E41C2DE3C05E451B0C2ACA413.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/F/1O/WVEZ09LV6CQPHAHBIXBXDO.uasset'
+[2026.03.31-19.46.37:583][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/07/9PZFMIYTX3NM760LDH3150
+[2026.03.31-19.46.37:590][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/07/9PZFMIYTX3NM760LDH3150
+[2026.03.31-19.46.37:590][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/9PZFMIYTX3NM760LDH31508FD644B04466C030EB3A55A495324A15.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/07/9PZFMIYTX3NM760LDH3150.uasset'
+[2026.03.31-19.46.37:591][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/4Q/TA2J6EHJNTMDB5WL4157C7
+[2026.03.31-19.46.37:598][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/4Q/TA2J6EHJNTMDB5WL4157C7
+[2026.03.31-19.46.37:598][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/TA2J6EHJNTMDB5WL4157C710C867EC4DA89EF0100A78AF03CD7DB0.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/4Q/TA2J6EHJNTMDB5WL4157C7.uasset'
+[2026.03.31-19.46.37:599][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/DR/SPJ20IN8PCMJDXXO15L39E
+[2026.03.31-19.46.37:606][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/DR/SPJ20IN8PCMJDXXO15L39E
+[2026.03.31-19.46.37:606][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/SPJ20IN8PCMJDXXO15L39ECB2B14ED411D218F58A3DE9D2DCC22E7.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/DR/SPJ20IN8PCMJDXXO15L39E.uasset'
+[2026.03.31-19.46.37:609][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/ZO/EDDY68M8EZ2GT4KAK67KVT
+[2026.03.31-19.46.37:616][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/ZO/EDDY68M8EZ2GT4KAK67KVT
+[2026.03.31-19.46.37:616][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/EDDY68M8EZ2GT4KAK67KVT2D5A372146DDE238FAA9858397F5BE02.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/ZO/EDDY68M8EZ2GT4KAK67KVT.uasset'
+[2026.03.31-19.46.37:618][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/LT/XOB4H7EI80T2OJLL19M98Z
+[2026.03.31-19.46.37:625][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/LT/XOB4H7EI80T2OJLL19M98Z
+[2026.03.31-19.46.37:625][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/XOB4H7EI80T2OJLL19M98ZE2EC69494B2E9331A7E3878427B93C64.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/LT/XOB4H7EI80T2OJLL19M98Z.uasset'
+[2026.03.31-19.46.37:626][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/FN/Z0VON6BHCZ378HG6H6M9MT
+[2026.03.31-19.46.37:632][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/FN/Z0VON6BHCZ378HG6H6M9MT
+[2026.03.31-19.46.37:632][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/Z0VON6BHCZ378HG6H6M9MT8D121821441AF8149A901A913E87BABC.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/FN/Z0VON6BHCZ378HG6H6M9MT.uasset'
+[2026.03.31-19.46.37:635][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/DJ/7TGSSVW6MG4EWWDH6NN03R
+[2026.03.31-19.46.37:640][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/DJ/7TGSSVW6MG4EWWDH6NN03R
+[2026.03.31-19.46.37:640][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/7TGSSVW6MG4EWWDH6NN03R63C440BD41E8C53B17ADA3BCFD90DF54.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/DJ/7TGSSVW6MG4EWWDH6NN03R.uasset'
+[2026.03.31-19.46.37:642][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/4T/EOP2PD3YZOI2KJ4QOZ6XEQ
+[2026.03.31-19.46.37:648][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/4T/EOP2PD3YZOI2KJ4QOZ6XEQ
+[2026.03.31-19.46.37:648][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/EOP2PD3YZOI2KJ4QOZ6XEQC56504F040C5A2D91C3B51B54469DB52.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/4T/EOP2PD3YZOI2KJ4QOZ6XEQ.uasset'
+[2026.03.31-19.46.37:650][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/V6/VQVE4CJZWMMDYHDTVQCEZR
+[2026.03.31-19.46.37:656][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/V6/VQVE4CJZWMMDYHDTVQCEZR
+[2026.03.31-19.46.37:656][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/VQVE4CJZWMMDYHDTVQCEZREB4A63FB4969945FB4BB69B17EF5B5CA.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/V6/VQVE4CJZWMMDYHDTVQCEZR.uasset'
+[2026.03.31-19.46.37:657][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/1Z/4QMVRJ9ZVX34W95HQJVIZN
+[2026.03.31-19.46.37:664][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/1Z/4QMVRJ9ZVX34W95HQJVIZN
+[2026.03.31-19.46.37:664][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/4QMVRJ9ZVX34W95HQJVIZN2ECD47814CF2DFC1009FBC8D65C0E92B.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/1Z/4QMVRJ9ZVX34W95HQJVIZN.uasset'
+[2026.03.31-19.46.37:666][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/2M/0XL1PHKPUYSLZM88UXSGAT
+[2026.03.31-19.46.37:673][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/2M/0XL1PHKPUYSLZM88UXSGAT
+[2026.03.31-19.46.37:673][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/0XL1PHKPUYSLZM88UXSGATDCF2E5C94FB6947FE04B14A4D3BCF6FF.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/2M/0XL1PHKPUYSLZM88UXSGAT.uasset'
+[2026.03.31-19.46.37:675][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/QF/LWJ5PBRP56FQ4YZ018SJTB
+[2026.03.31-19.46.37:680][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/QF/LWJ5PBRP56FQ4YZ018SJTB
+[2026.03.31-19.46.37:680][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/LWJ5PBRP56FQ4YZ018SJTB9C25F4044248749CE280AC99D463F9C3.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/QF/LWJ5PBRP56FQ4YZ018SJTB.uasset'
+[2026.03.31-19.46.37:682][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/NJ/1J2Z8RFR8OYVAK5PSDBYAG
+[2026.03.31-19.46.37:688][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/NJ/1J2Z8RFR8OYVAK5PSDBYAG
+[2026.03.31-19.46.37:688][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/1J2Z8RFR8OYVAK5PSDBYAGD0B8659F413EB9790CA78DAEDB5F3EB1.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/NJ/1J2Z8RFR8OYVAK5PSDBYAG.uasset'
+[2026.03.31-19.46.37:690][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/KX/Q7JJ4LRKWQ9QXGBTU34VW4
+[2026.03.31-19.46.37:696][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/KX/Q7JJ4LRKWQ9QXGBTU34VW4
+[2026.03.31-19.46.37:696][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/Q7JJ4LRKWQ9QXGBTU34VW48E461E5B44AF449835D4FA986CCB0C44.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/KX/Q7JJ4LRKWQ9QXGBTU34VW4.uasset'
+[2026.03.31-19.46.37:697][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/X3/EGG8C2N8JSQYIJCKG9QLG3
+[2026.03.31-19.46.37:703][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/X3/EGG8C2N8JSQYIJCKG9QLG3
+[2026.03.31-19.46.37:703][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/EGG8C2N8JSQYIJCKG9QLG30A3BE53449EB6888624075A764837904.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/X3/EGG8C2N8JSQYIJCKG9QLG3.uasset'
+[2026.03.31-19.46.37:705][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/1I/C8900ZGT81PDOK2CSLQ637
+[2026.03.31-19.46.37:712][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/1I/C8900ZGT81PDOK2CSLQ637
+[2026.03.31-19.46.37:712][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/C8900ZGT81PDOK2CSLQ6376352B9C34E1BA497FBB9CCB6DC27327D.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/1I/C8900ZGT81PDOK2CSLQ637.uasset'
+[2026.03.31-19.46.37:713][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/2Y/6S7U477SQNYWHPU294GRS1
+[2026.03.31-19.46.37:719][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/2Y/6S7U477SQNYWHPU294GRS1
+[2026.03.31-19.46.37:719][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/6S7U477SQNYWHPU294GRS15581750C4C1F4E59333C63A5248E946B.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/2Y/6S7U477SQNYWHPU294GRS1.uasset'
+[2026.03.31-19.46.37:721][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/F8/5ZWW5NX78BOUOR0STNU331
+[2026.03.31-19.46.37:726][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/F8/5ZWW5NX78BOUOR0STNU331
+[2026.03.31-19.46.37:726][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/5ZWW5NX78BOUOR0STNU33132EF2EBB47478D920BABC08D13C3F634.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/F8/5ZWW5NX78BOUOR0STNU331.uasset'
+[2026.03.31-19.46.37:728][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/I1/6FWE0425O392WHPAV46LF1
+[2026.03.31-19.46.37:734][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/I1/6FWE0425O392WHPAV46LF1
+[2026.03.31-19.46.37:735][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/6FWE0425O392WHPAV46LF1123067924329EBB1CE972FA3D669AE5F.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/I1/6FWE0425O392WHPAV46LF1.uasset'
+[2026.03.31-19.46.37:736][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/OX/VAY0STQ9S32NZWNVNT4BJ4
+[2026.03.31-19.46.37:742][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/OX/VAY0STQ9S32NZWNVNT4BJ4
+[2026.03.31-19.46.37:742][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/VAY0STQ9S32NZWNVNT4BJ404AB106243D68A8F34CD02A46B946BE6.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/OX/VAY0STQ9S32NZWNVNT4BJ4.uasset'
+[2026.03.31-19.46.37:743][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/DY/BZ8O659EFSQ74VETP4W8WY
+[2026.03.31-19.46.37:750][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/DY/BZ8O659EFSQ74VETP4W8WY
+[2026.03.31-19.46.37:750][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/BZ8O659EFSQ74VETP4W8WYE1FE7D6242A2DA8B7369B5B1AD7CC012.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/DY/BZ8O659EFSQ74VETP4W8WY.uasset'
+[2026.03.31-19.46.37:751][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/16/PUHD2ZBD5GSQW50UDY4H0E
+[2026.03.31-19.46.37:758][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/16/PUHD2ZBD5GSQW50UDY4H0E
+[2026.03.31-19.46.37:758][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/PUHD2ZBD5GSQW50UDY4H0EA814355647ACDF058D4C06BF2B3981E9.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/16/PUHD2ZBD5GSQW50UDY4H0E.uasset'
+[2026.03.31-19.46.37:759][612]LogFileHelpers: Saving Package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/O8/AI0ADMEJCESW7AP0O4TS7F
+[2026.03.31-19.46.37:765][612]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/O8/AI0ADMEJCESW7AP0O4TS7F
+[2026.03.31-19.46.37:765][612]LogSavePackage: Moving '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/AI0ADMEJCESW7AP0O4TS7F4D05F55640DAAA2F068CDC93F7B936DB.tmp' to '../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/O8/AI0ADMEJCESW7AP0O4TS7F.uasset'
+[2026.03.31-19.46.37:783][612]LogFileHelpers: InternalPromptForCheckoutAndSave took 622.710 ms (total: 784.050 ms)
+[2026.03.31-19.46.37:860][612]LogContentValidation: Enabled validators:
+[2026.03.31-19.46.37:860][612]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.31-19.46.37:860][612]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.31-19.46.37:860][612]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.31-19.46.37:860][612]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.31-19.46.37:860][612]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.31-19.46.37:860][612]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.31-19.46.37:860][612]LogContentValidation: Display: Starting to validate 1 assets (59 associated objects such as actors)
+[2026.03.31-19.46.37:860][612]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.03.31-19.46.37:860][612]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2026.03.31-19.46.37:860][612]LogContentValidation: Validated asset counts for 1 validators:
+[2026.03.31-19.46.37:860][612]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.03.31-19.46.38:604][612]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rubys/OneDrive/Documents/GitHub/Graded-Unit-NESCOL-Year-2/GradedUnit/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.31-19.46.46:351][439]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.31-19.46.46:430][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.03.31-19.46.46:446][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.03.31-19.46.46:463][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.03.31-19.46.46:477][439]LogFileHelpers: InternalPromptForCheckoutAndSave took 127.118 ms (total: 911.168 ms)
+[2026.03.31-19.46.48:413][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.03.31-19.46.48:453][661]LogStall: Shutdown...
+[2026.03.31-19.46.48:458][661]LogStall: Shutdown complete.
+[2026.03.31-19.46.48:467][661]LogSlate: Window 'Stairs_Copy' being destroyed
+[2026.03.31-19.46.48:521][661]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.03.31-19.46.48:521][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.31-19.46.48:562][661]LogSlate: Window 'GradedUnit - Unreal Editor' being destroyed
+[2026.03.31-19.46.48:685][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.03.31-19.46.48:705][661]Cmd: QUIT_EDITOR
+[2026.03.31-19.46.48:705][662]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.03.31-19.46.48:710][662]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.03.31-19.46.48:711][662]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.03.31-19.46.48:711][662]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.03.31-19.46.48:717][662]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.31-19.46.48:718][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.31-19.46.48:718][662]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2026.03.31-19.46.48:724][662]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.03.31-19.46.48:725][662]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.03.31-19.46.48:729][662]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.03.31-19.46.48:729][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.31-19.46.48:729][662]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.31-19.46.48:729][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.31-19.46.48:730][662]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.03.31-19.46.48:731][662]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.03.31-19.46.49:381][662]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.03.31-19.46.49:381][662]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.03.31-19.46.49:381][662]LogAudio: Display: Audio Device unregistered from world 'Lvl_FirstPerson'.
+[2026.03.31-19.46.49:381][662]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.03.31-19.46.49:381][662]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.03.31-19.46.49:382][662]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.03.31-19.46.49:389][662]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.03.31-19.46.49:389][662]LogAudio: Display: Audio Device Manager Shutdown
+[2026.03.31-19.46.49:393][662]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.03.31-19.46.49:394][662]LogExit: Preparing to exit.
+[2026.03.31-19.46.49:420][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.03.31-19.46.50:300][662]LogEditorDataStorage: Deinitializing
+[2026.03.31-19.46.50:367][662]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.03.31-19.46.50:382][662]LogExit: Editor shut down
+[2026.03.31-19.46.50:386][662]LogExit: Transaction tracking system shut down
+[2026.03.31-19.46.50:540][662]LogExit: Object subsystem successfully closed.
+[2026.03.31-19.46.50:656][662]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.03.31-19.46.50:843][662]LogMemoryProfiler: Shutdown
+[2026.03.31-19.46.50:843][662]LogNetworkingProfiler: Shutdown
+[2026.03.31-19.46.50:843][662]LoadingProfiler: Shutdown
+[2026.03.31-19.46.50:843][662]LogTimingProfiler: Shutdown
+[2026.03.31-19.46.50:844][662]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.03.31-19.46.50:844][662]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.03.31-19.46.50:854][662]LogWebBrowser: Deleting browser for Url=https://editor.unrealengine.com/en-US/get-started-with-unreal-engine.
+[2026.03.31-19.46.51:181][662]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.03.31-19.46.51:181][662]LogNFORDenoise: NFORDenoise function shutting down
+[2026.03.31-19.46.51:189][662]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.03.31-19.46.51:189][662]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBBB8C737-4713-B06C-EE7A-97A29FA18626%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.7.3-50162420%2B%2B%2BUE5%2BRelease-5.7&UserID=6e70f2184180cbde1010fd815fc3204f%7Ceb836cf968954d18926c07cedac53829%7C53fac2b8-0ca1-4bdd-985a-53917d2cdf23&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.03.31-19.46.51:744][662]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.03.31-19.46.51:745][662]RenderDocPlugin: plugin has been unloaded.
+[2026.03.31-19.46.51:745][662]LogXGEController: Cleaning working directory: C:/Users/rubys/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.03.31-19.46.51:746][662]LogPakFile: Destroying PakPlatformFile
+[2026.03.31-19.46.51:998][662]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.03.31-19.46.52:021][662]LogExit: Exiting.
+[2026.03.31-19.46.52:036][662]Log file closed, 03/31/26 20:46:52
