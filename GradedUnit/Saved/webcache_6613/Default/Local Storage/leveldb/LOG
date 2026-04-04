@@ -1,3 +1,5 @@
-2026/04/01-19:26:16.577 4808 Reusing MANIFEST C:\Users\rubys\OneDrive\Documents\GitHub\Graded-Unit-NESCOL-Year-2\GradedUnit\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/04/01-19:26:16.581 4808 Recovering log #42
-2026/04/01-19:26:16.585 4808 Reusing old log C:\Users\rubys\OneDrive\Documents\GitHub\Graded-Unit-NESCOL-Year-2\GradedUnit\Saved\webcache_6613\Default\Local Storage\leveldb/000042.log 
+2026/04/03-23:10:59.572 6860 Reusing MANIFEST C:\Users\rubys\OneDrive\Documents\GitHub\Graded-Unit-NESCOL-Year-2\GradedUnit\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/03-23:10:59.584 6860 Recovering log #42
+2026/04/03-23:10:59.585 6860 Level-0 table #45: started
+2026/04/03-23:10:59.593 6860 Level-0 table #45: 63680 bytes OK
+2026/04/03-23:10:59.601 6860 Delete type=0 #42
